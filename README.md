@@ -1,1 +1,2 @@
 # Translator
+The Google Translator GUI Project is a Python application built using the Tkinter library, providing a user-friendly interface to interact with the Google Translate API. This project enables users to translate text between various languages, manually select source and target languages, and even automatically detect the source language. Additionally, the application supports the translation of entire text files.
